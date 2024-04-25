@@ -1,6 +1,6 @@
 # Solana Validator Docs Readme
 
-This validator's documentation is built using [Docusaurus v2](https://v2.docusaurus.io/) with `npm`.
+This validator's documentation is built using [Docusaurus v2](https://docusaurus.io/) with `npm`.
 Static content delivery is handled using `vercel`.
 
 > Note: The documentation within this repo is specifically focused on the
